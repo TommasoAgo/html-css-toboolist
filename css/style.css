@@ -12,6 +12,8 @@ body {
 
 
 /* HEADER */
+
+/* First block */
 header {
     background-color: white;
 }
@@ -43,11 +45,12 @@ header span {
 }
 
 .first {
+    padding-top: 20px;
+    padding-left: 30px;
     height: 60px;
     margin-top: 40px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    display: table;
 }
   
 
@@ -57,10 +60,29 @@ header span {
     padding: 5px;
     border-radius: 5px;
     border: 1px solid #9dd3f8;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.secondbutton {
+    width: 70px;
+    background-color: white;
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: grey;
 }
 
 .firstbutton, .secondbutton {
     display: inline;
 }
+
+/* First Block Ending */
+
+/* Second Block */
+
 
 
