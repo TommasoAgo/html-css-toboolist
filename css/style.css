@@ -119,6 +119,8 @@ li {
     padding-left: 10px;
 }
 
+/* DONE/NOTDONE ICONS */
+
 .done {
     color: green;
     border-color: green;
