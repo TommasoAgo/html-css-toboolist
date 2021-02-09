@@ -80,7 +80,8 @@ header span {
 
 .firstbutton, .secondbutton {
     display: inline;
-    padding: 10px;
+    padding-left: 10px;
+    line-height: 30px;
 }
 
 /* First Block Ending */
@@ -89,9 +90,9 @@ header span {
 
 .second {
     margin-top: 3px;
-    height: 700px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+    padding: 60px;
 }
 
 ul {
